@@ -1,4 +1,4 @@
-## Hi there, I'm Mehmet Emin Ural 👋
+## Hi, I'm Mehmet Emin Ural 👋
 - 🔭
 https://www.youtube.com/playlist?list=PLD9b0KFQWLE0Q6Zyx9mT6tDMj7h7v295U
 
@@ -43,20 +43,3 @@ Implementations and exercises covering fundamental algorithms and data structure
 ## Let's connect
 
 I am open to working-student and university opportunities in software development and IT, especially in Kassel and the surrounding area.
-
-
-
-<!--
-**Ural0/Ural0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
