@@ -26,7 +26,7 @@ Implementations and exercises covering fundamental algorithms and data structure
 * Python
 * C
 * Git
-* Linux
+
 
 ## Currently learning
 
