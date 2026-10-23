@@ -1,4 +1,5 @@
-// ddd
+<!--
+
 ## Hi, I'm Mehmet Emin Ural 👋
 - 🔭
 https://www.youtube.com/playlist?list=PLD9b0KFQWLE0Q6Zyx9mT6tDMj7h7v295U
@@ -44,3 +45,5 @@ Implementations and exercises covering fundamental algorithms and data structure
 ## Let's connect
 
 I am open to working-student and university opportunities in software development and IT, especially in Kassel and the surrounding area.
+
+-->
